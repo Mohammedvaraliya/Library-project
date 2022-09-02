@@ -27,19 +27,20 @@ class Library{
     }
 
     void issueBook(String book){
-        for(int i=0;i<this.books.length; i++){
-            if (this.books[i].equalsIgnoreCase(book)){
+        for(int i=0; i<=this.books.length; i++){
+            if (this.books[i].equals(book)){
                 System.out.println("The book has been issued!");
                 this.books[i] = null;
                 return;
             }
-            else {
-                System.out.println("This book does not exist");
+            else if (this.books[i] != book) {
+                System.out.println("This book does not exist! Please enter the correct name");
                 return;
             }
-        }
 
+        }
     }
+
 
     void returnBook(String book){
         addBook(book);
