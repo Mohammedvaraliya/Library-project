@@ -14,6 +14,7 @@ https://user-images.githubusercontent.com/95087498/180423485-833a7d83-23f4-4756-
 <h1>Requirements</h1>
 
 Python
+Java
 
 # Thank you!
 
