@@ -1,6 +1,14 @@
-# Library Management System In Python
+# Library Management System In PYTHON
 
 Python Library Management System is important software which is used in the libraries of schools and colleges for adding new books in the library,
+issuing books to students and maintaining the record of the book that is returned.
+
+In this project, I developed a library management system that will help us in performing various functions like adding, 
+issuing, and returning books.
+
+# Library Management System In JAVA
+
+Java Library Management System is important software which is used in the libraries of schools and colleges for adding new books in the library,
 issuing books to students and maintaining the record of the book that is returned.
 
 In this project, I developed a library management system that will help us in performing various functions like adding, 
